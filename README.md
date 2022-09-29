@@ -1,5 +1,4 @@
-# NBA_conference_disparity
-Analyzing Conference Disparity in the NBA with R
+# Analyzing Conference Disparity in the NBA with R
 
 This project is conducted in R using data from the 2005-06 season to 2020-21. I analyzed wins, losses, points scored, and other game stats to determine if there is a significant conference disparity in the NBA.
 
